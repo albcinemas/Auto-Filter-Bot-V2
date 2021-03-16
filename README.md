@@ -1,24 +1,5 @@
-# Auto Filter Bot V2
 
-<p align="center">
-  <a href="https://www.python.org">
-    <img src="http://ForTheBadge.com/images/badges/made-with-python.svg">
-
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/TroJanzHEX/Auto-Filter-Bot-V2/stargazers">
-    <img src="https://img.shields.io/github/stars/TroJanzHEX/Auto-Filter-Bot-V2?style=social">
-
-  </a>
-  
-  <a href="https://github.com/TroJanzHEX/Auto-Filter-Bot-V2/fork">
-    <img src="https://img.shields.io/github/forks/TroJanzHEX/Auto-Filter-Bot-V2?label=Fork&style=social">
-
-  </a>  
-</p>
-
-[![TroJanz](https://img.shields.io/badge/TroJanzHEX-Channel-orange?style=for-the-badge&logo=telegram)](https://telegram.dog/TroJanzHEX)  
+[![FILM CORNER](https://img.shields.io/badge/FCfilmcornerfc-Channel-orange?style=for-the-badge&logo=telegram)](https://telegram.dog/FCfilmcornerfc)  
 ㅤㅤㅤㅤㅤㅤㅤ  
 [![TroJanz](https://img.shields.io/badge/TroJanzHEX-Support-red?style=flat&logo=telegram)](https://telegram.dog/TroJanzSupport)  [![TroJanz](https://img.shields.io/badge/TroJanzHEX-Website-red?style=flat&logo=CodersRank)](https://TroJanzHEX.me)  
 ㅤㅤㅤㅤㅤㅤㅤ  
