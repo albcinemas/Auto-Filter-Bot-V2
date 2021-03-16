@@ -184,7 +184,7 @@ async def cb_handler(client: Bot, query: CallbackQuery):
             keyboard = InlineKeyboardMarkup([
                 [InlineKeyboardButton("BACK", callback_data="start_data"),
                     InlineKeyboardButton("ABOUT", callback_data="about_data")],
-                [InlineKeyboardButton("🕵️ Channel ⭕️💥🕵️", url="https://t.me/FCfilmcornerfc")]
+                [InlineKeyboardButton("🕵️ Group 🕵️", url="https://t.me/FCfilmcornercc")]
              
             ])
 
