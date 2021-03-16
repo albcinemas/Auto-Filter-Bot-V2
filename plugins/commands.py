@@ -24,10 +24,6 @@ async def start(client, message):
                         InlineKeyboardButton(
                             "⭕️ JOIN OUR CHANNEL ⭕️", url="https://t.me/FCfilmcornerfc")
                     ]
-[
-                        InlineKeyboardButton(
-                            "🕵️ JOIN OUR Group 🕵️", url="https://t.me/FCfilmcornercc")
-                    ]
                 ]
             ),
             reply_to_message_id=message.message_id
