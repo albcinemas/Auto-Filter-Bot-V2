@@ -185,7 +185,7 @@ async def cb_handler(client: Bot, query: CallbackQuery):
                 [InlineKeyboardButton("BACK", callback_data="start_data"),
                     InlineKeyboardButton("ABOUT", callback_data="about_data")],
                 [InlineKeyboardButton("🕵️ Channel ⭕️💥🕵️", url="https://t.me/FCfilmcornerfc")]
-                [InlineKeyboardButton("⭕️ SUPPORT ⭕️", url="https://t.me/TroJanzSupport")]
+             
             ])
 
             await query.message.edit_text(
