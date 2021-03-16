@@ -46,7 +46,9 @@ async def help(client, message):
                     [
                         InlineKeyboardButton(
                             "⭕️ SUPPORT ⭕️", url="https://t.me/FCfilmcornerfc")
-                    ]
+                        InlineKeyboardButton(
+                            "🕵️ Group ⭕️💥🕵️", url="https://t.me/FCfilmcornercc")
+ ]
                 ]
             ),
             reply_to_message_id=message.message_id
