@@ -1,5 +1,5 @@
 
-[![FILM CORNER](https://img.shields.io/badge/film corner -Channel-orange?style=for-the-badge&logo=telegram)](https://telegram.dog/FCfilmcornerfc)  
+[![FILM CORNER](https://img.shields.io/badge/film corner-Channel-orange?style=for-the-badge&logo=telegram)](https://telegram.dog/FCfilmcornerfc)  
 ㅤㅤㅤㅤㅤㅤㅤ  
 [![TroJanz](https://img.shields.io/badge/TroJanzHEX-Support-red?style=flat&logo=telegram)](https://telegram.dog/TroJanzSupport)  [![TroJanz](https://img.shields.io/badge/TroJanzHEX-Website-red?style=flat&logo=CodersRank)](https://TroJanzHEX.me)  
 ㅤㅤㅤㅤㅤㅤㅤ  
