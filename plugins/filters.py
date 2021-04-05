@@ -62,7 +62,7 @@ async def filter(client: Bot, message: Message):
                 [InlineKeyboardButton(text="📃 Pages 1/1 📖",callback_data="pages")]
             )
             await message.reply_text(
-                f"<b>𝙿𝚘𝚠𝚎𝚛𝚎𝚍 𝚋𝚢 @FCfilmcornerfc \n\n ❌ DON'T STAY ON BACKUP CHANNEL (FC™ A2Z)❌ \n\n\n 👇Here is the result of <u> {message.text}  </u>👇</b>",
+                f"<b>𝙿𝚘𝚠𝚎𝚛𝚎𝚍 𝚋𝚢 @FCfilmcornerfc \n\n ❌ DON'T STAY ON BACKUP CHANNEL (FC™ A2Z)❌ \n\n\n⚠️DM ▶️@FC_Admin_bot , IF NOT WORKING⚠️ \n\n 👇Here is the result of <u> {message.text}  </u>👇</b>",
                 reply_markup=InlineKeyboardMarkup(buttons)
             )
             return
@@ -78,7 +78,7 @@ async def filter(client: Bot, message: Message):
         )
 
         await message.reply_text(
-                f"<b>𝙿𝚘𝚠𝚎𝚛𝚎𝚍 𝚋𝚢 @FCfilmcornerfc \n\n ❌ DON'T STAY ON BACKUP CHANNEL (FC™ A2Z)❌ \n\n\n 👇Here is the result of <u> {message.text}  </u> 👇</b>",
+                f"<b>𝙿𝚘𝚠𝚎𝚛𝚎𝚍 𝚋𝚢 @FCfilmcornerfc \n\n ❌ DON'T STAY ON BACKUP CHANNEL (FC™ A2Z)❌ \n\n\n ⚠️DM ▶️@FC_Admin_bot , IF NOT WORKING⚠️ \n\n👇Here is the result of <u> {message.text}  </u> 👇</b>",
                 reply_markup=InlineKeyboardMarkup(buttons)
             )    
 
