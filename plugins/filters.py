@@ -62,7 +62,7 @@ async def filter(client: Bot, message: Message):
                 [InlineKeyboardButton(text="📃 Pages 1/1 📖",callback_data="pages")]
             )
             await message.reply_text(
-                f"<b> @ALBCINEMASALL ⛔❌ 👇DON'T JOIN THE FOLLOWING CHNL‼️ IF YOU JOINED YOU WILL GET PERMANENT BAN AND YOU CANNOT ACCES ANY MOVIES FROM THIS GRP👇❌⛔\n\n\n ⚠️⭕️ചുവടെയുള്ള ചാനലിൽ യാതൊരു കാരണവശാലും JOIN ചെയ്യരുത് ‼️JOIN ചെയ്താൽ PERMANANT BAN കിട്ടും പിന്നെ നിങ്ങൾക്ക് ഈ GRPL നിന്നും ഒരു മൂവിയും കിട്ടുന്നതല്ല  ⭕️⚠️\n 👇Here is the result of {message.text}  👇</b>",
+                f"<b> @ALBCINEMASALL \n\n⛔❌ 👇DON'T JOIN THE FOLLOWING CHNL‼️ IF YOU JOINED YOU WILL GET PERMANENT BAN AND YOU CANNOT ACCES ANY MOVIES FROM THIS GRP👇❌⛔\n\n ⚠️⭕️ചുവടെയുള്ള ചാനലിൽ യാതൊരു കാരണവശാലും JOIN ചെയ്യരുത് ‼️JOIN ചെയ്താൽ PERMANANT BAN കിട്ടും പിന്നെ നിങ്ങൾക്ക് ഈ GRPL നിന്നും ഒരു മൂവിയും കിട്ടുന്നതല്ല  ⭕️⚠️\n\n 👇Here is the result of {message.text}  👇</b>",
                 reply_markup=InlineKeyboardMarkup(buttons)
             )
             return
@@ -78,7 +78,7 @@ async def filter(client: Bot, message: Message):
         )
 
         await message.reply_text(
-                f"<b> @ALBCINEMASALL ⛔❌ 👇DON'T JOIN THE FOLLOWING CHNL‼️ IF YOU JOINED YOU WILL GET PERMANENT BAN AND YOU CANNOT ACCES ANY MOVIES FROM THIS GRP👇❌⛔\n\n\n ⚠️⭕️ചുവടെയുള്ള ചാനലിൽ യാതൊരു കാരണവശാലും JOIN ചെയ്യരുത് ‼️JOIN ചെയ്താൽ PERMANANT BAN കിട്ടും പിന്നെ നിങ്ങൾക്ക് ഈ GRPL നിന്നും ഒരു മൂവിയും കിട്ടുന്നതല്ല  ⭕️⚠️\n👇Here is the result of {message.text}   👇</b>",
+                f"<b> @ALBCINEMASALL \n\n⛔❌ 👇DON'T JOIN THE FOLLOWING CHNL‼️ IF YOU JOINED YOU WILL GET PERMANENT BAN AND YOU CANNOT ACCES ANY MOVIES FROM THIS GRP👇❌⛔\n\n ⚠️⭕️ചുവടെയുള്ള ചാനലിൽ യാതൊരു കാരണവശാലും JOIN ചെയ്യരുത് ‼️JOIN ചെയ്താൽ PERMANANT BAN കിട്ടും പിന്നെ നിങ്ങൾക്ക് ഈ GRPL നിന്നും ഒരു മൂവിയും കിട്ടുന്നതല്ല  ⭕️⚠️\n\n👇Here is the result of {message.text}   👇</b>",
                 reply_markup=InlineKeyboardMarkup(buttons)
             )    
 
