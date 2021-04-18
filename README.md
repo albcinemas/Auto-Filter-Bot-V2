@@ -35,7 +35,7 @@ or
 ## Installation
 
 ### Deploy to Heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/jinto4638/Auto-Filter-Bot-V2)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/albcinemas/Auto-Filter-Bot-V2)
 
 ### Deploy in your vps
 ```sh
@@ -56,7 +56,7 @@ python3 main.py
 
 * TG_USER_SESSION  - A pyrogram user session string. Generate by [clicking here](https://repl.it/@prgofficial/String-Gen)
 
-* AUTH_USERS  - ID of users that can use the bot commands. Get from [MissRose Bot](https://telegram.dog/MissRose_bot) by using /id command
+* AUTH_USERS  - ID of users that can use the bot cotps://telegram.dog/MissRose_bot) by using /id command
 
 * DATABASE_URI  - Mongo Database URL from https://cloud.mongodb.com/
 
